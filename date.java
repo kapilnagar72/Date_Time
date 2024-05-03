@@ -11,4 +11,24 @@ public class date {
         java.sql.Date dt1 = new java.sql.Date(timems);
         System.out.println(dt1);
     }
+
+    public static int getYear() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getYear'");
+    }
+
+    public static int getMonthofYear() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getMonthofYear'");
+    }
+
+    public static int getDayOfMonth() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getDayOfMonth'");
+    }
+
+    public static int getMonthValue() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getMonthValue'");
+    }
 }
